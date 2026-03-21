@@ -1,0 +1,53 @@
+After reinstall windows, many app, programming tools are lost so this app is created to help me to install all the tools I need in one click.
+The apps, tools:
+- Visual Studio Code
+- Git
+- Docker
+- Visual Studio 2022
+- Mitm Proxy
+- chocolatey
+- Postman
+- DBeaver
+
+Programming Languages:
+- Python
+- Java
+- C# Dotnet
+- C/C++
+- NodeJS
+- Rust
+- Go
+- Dart
+- Flutter
+- React Native
+- VueJS
+- Angular
+
+Gaming:
+- Steam
+- Epic Games
+- Discords
+- Riot Games
+
+Decorate:
+- Nilesoft Shell
+- powershell - ohmyposh
+- Windows Terminal
+- flowlaucher + everything
+
+Web Browsers:
+- Google Chrome
+- Mozilla Firefox
+- Brave
+
+Utilities & Productivity:
+- 7-Zip
+- Microsoft PowerToys
+- VLC Media Player
+- Notion
+- Slack
+- Zoom
+- WebStorm
+- Winrar
+- Obsidian
+- IntelliJ IDEA
