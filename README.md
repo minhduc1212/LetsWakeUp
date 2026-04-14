@@ -1,4 +1,4 @@
-# Let's Wake Up - Windows App Installer
+# Start Again - Windows App Installer
 
 ## Introduction
 After reinstalling Windows, getting your development environment and daily-use applications set up can be a tedious and time-consuming process. **Let's Wake Up** is a Python-based desktop application created to help you automatically install all the tools, programming languages, and utilities you need with just one click.
